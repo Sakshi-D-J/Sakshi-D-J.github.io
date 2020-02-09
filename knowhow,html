@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Know How</title>
+        <link rel="stylesheet" href="stylesheet.css">
+      
+    </head>
+    <body>
+        <header>
+            <div class="container">
+                
+            <div class="title">
+                <h1>
+                    KNOW HOW
+                </h1>
+            </div>
+            </div>
+
+        </header>
+        <div class="main">
+    
+        <div class="top-wrapper">
+            <div class="container">
+              
+                <h2>Wanna Be A Programmer?</h2>
+                <p>But don't know where to start</p>
+                <p>You've come to the right place</p>
+            </div>
+        
+        </div>
+        <div class="lesson-wrapper">
+            <div class="container">
+                <div class="heading">
+                    <h2>Let's Get Started !</h2>
+                </div>
+                <div class="lessons">
+                    <div class="lesson">
+                        <div class="lesson-icon">
+                            <img src="https://images.unsplash.com/photo-1484069560501-87d72b0c3669?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80" alt="" style="width: 100%">
+                           
+                            <div class="text-block">
+                                    <a href="https://www.codingdojo.com/blog/7-tips-learn-programming-faster">Essential Tips</a>
+                                  </div>
+                        </div>
+                        <div class="lesson-icon">
+                                <img src="https://images.unsplash.com/photo-1550645612-83f5d594b671?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" style="width: 100%">
+                                <div class="text-block">
+                                <a href="https://medium.com/coding-den/fields-of-programming-67e8a0976d4b">Choose Field</a>
+                                </div>
+                            </div>
+                    </div>
+
+                </div>
+
+            </div>
+       
+        </div>
+        </div><button id="myBtn">Still having Doubts?</button>
+
+        
+        <div id="myModal" class="modal">
+        
+         
+          <div class="modal-content">
+            <span class="close">&times;</span>
+            <p> Here at KNOW HOW we are happy to help (Toll-free:+6617543854) </p>
+          </div>
+        
+        </div>
+
+     
+
+
+
+
+        <div class="footer">
+                <div class="footer-logo">KNOW HOW</div>
+                <div class="footer-list">
+                  <ul>
+                    <li>About</li>
+                    <li>Contribute</li>
+                    <li>Contact us</li>
+                  </ul>
+                </div>
+              </div>
+            
+        <script type="text/javascript" src="./jscript.js"></script>  
+
+
+    </body>
+</html>
