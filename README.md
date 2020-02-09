@@ -5,4 +5,4 @@ They often don't know which branch of programming is best for them...
 This website helps them to do exactly that.
 
 Home page
-![](screenshot/2020-02-09.PNG)
+![](2020-02-09.PNG)
